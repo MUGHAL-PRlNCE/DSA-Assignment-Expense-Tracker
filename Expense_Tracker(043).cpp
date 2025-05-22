@@ -148,14 +148,3 @@ menu:
 	}
 	
 }
-
-
-
-//void traverse(BaseNode* head) {
-//    BaseNode* current = head;
-//    while (current != NULL) {
-//        current->display();
-//        current = current->next;
-//    }
-//}
-
