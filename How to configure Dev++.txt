@@ -1,5 +1,5 @@
 Configure Dev++ 
-Tools > compiler options > settings > code generation > Language standard
+Tools > compiler options > settings > code generation > Language standard (-std)
 select GNU C++11
 
 or use Embarcadero_Dev-Cpp_6.3_TDM-GCC_9.2
