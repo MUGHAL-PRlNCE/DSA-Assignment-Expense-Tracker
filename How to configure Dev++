@@ -1,0 +1,3 @@
+Configure Dev++ 
+Tools > compiler options > settings > code generation > Language standard
+select GNU C++11
